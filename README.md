@@ -2,8 +2,8 @@
 
 A personal portfolio built with React, Vite, and React Router 7 for CSCI 5360 Web Technologies (Fall 2026), deployed to GitHub Pages.
 
-- **Live site:** https://YOUR-GITHUB-USERNAME.github.io/portfolio/
-- **Repository:** https://github.com/YOUR-GITHUB-USERNAME/portfolio
+- **Live site:** https://princekk122.github.io/portfolio/
+- **Repository:** https://github.com/princekk122/portfolio
 
 ## Run locally
 
